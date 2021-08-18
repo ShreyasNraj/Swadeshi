@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Swadeshi/static/css/main.9eab7731.chunk.css",
+    "main.js": "/Swadeshi/static/js/main.3da44b80.chunk.js",
+    "main.js.map": "/Swadeshi/static/js/main.3da44b80.chunk.js.map",
+    "runtime-main.js": "/Swadeshi/static/js/runtime-main.4608d5f0.js",
+    "runtime-main.js.map": "/Swadeshi/static/js/runtime-main.4608d5f0.js.map",
+    "static/css/2.71fabcea.chunk.css": "/Swadeshi/static/css/2.71fabcea.chunk.css",
+    "static/js/2.4de8ff6f.chunk.js": "/Swadeshi/static/js/2.4de8ff6f.chunk.js",
+    "static/js/2.4de8ff6f.chunk.js.map": "/Swadeshi/static/js/2.4de8ff6f.chunk.js.map",
+    "static/js/3.9ac5c71f.chunk.js": "/Swadeshi/static/js/3.9ac5c71f.chunk.js",
+    "static/js/3.9ac5c71f.chunk.js.map": "/Swadeshi/static/js/3.9ac5c71f.chunk.js.map",
+    "index.html": "/Swadeshi/index.html",
+    "static/css/2.71fabcea.chunk.css.map": "/Swadeshi/static/css/2.71fabcea.chunk.css.map",
+    "static/css/main.9eab7731.chunk.css.map": "/Swadeshi/static/css/main.9eab7731.chunk.css.map",
+    "static/js/2.4de8ff6f.chunk.js.LICENSE.txt": "/Swadeshi/static/js/2.4de8ff6f.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/Swadeshi/static/media/2593044.99e3a624.jpg",
+    "static/media/auc1 (1).d70c2894.jpeg": "/Swadeshi/static/media/auc1 (1).d70c2894.jpeg",
+    "static/media/auc1 (2).41545eaa.jpeg": "/Swadeshi/static/media/auc1 (2).41545eaa.jpeg",
+    "static/media/auc1 (3).f07bb4d3.jpeg": "/Swadeshi/static/media/auc1 (3).f07bb4d3.jpeg",
+    "static/media/auc1 (4).69a689c2.jpeg": "/Swadeshi/static/media/auc1 (4).69a689c2.jpeg",
+    "static/media/auc1 (5).3d530307.jpeg": "/Swadeshi/static/media/auc1 (5).3d530307.jpeg",
+    "static/media/auc1 (6).d0f31c33.jpeg": "/Swadeshi/static/media/auc1 (6).d0f31c33.jpeg",
+    "static/media/auc1 (7).d6ff3a77.jpg": "/Swadeshi/static/media/auc1 (7).d6ff3a77.jpg",
+    "static/media/auc1 (8).12d39492.jpeg": "/Swadeshi/static/media/auc1 (8).12d39492.jpeg",
+    "static/media/bars-solid.e8db7520.svg": "/Swadeshi/static/media/bars-solid.e8db7520.svg",
+    "static/media/font-awesome.min.css": "/Swadeshi/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/App.css": "/Swadeshi/static/media/image4.64cc0771.jpeg",
+    "static/media/image2.984b1e13.jpg": "/Swadeshi/static/media/image2.984b1e13.jpg",
+    "static/media/main.dd83ca35.jpg": "/Swadeshi/static/media/main.dd83ca35.jpg",
+    "static/media/main1.ffbd4ed3.jpg": "/Swadeshi/static/media/main1.ffbd4ed3.jpg",
+    "static/media/shopping-cart-solid.d146d6c3.svg": "/Swadeshi/static/media/shopping-cart-solid.d146d6c3.svg",
+    "static/media/times-solid.ea7c95d7.svg": "/Swadeshi/static/media/times-solid.ea7c95d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4608d5f0.js",
+    "static/css/2.71fabcea.chunk.css",
+    "static/js/2.4de8ff6f.chunk.js",
+    "static/css/main.9eab7731.chunk.css",
+    "static/js/main.3da44b80.chunk.js"
+  ]
+}
